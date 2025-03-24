@@ -13,9 +13,8 @@ Testar a ferramenta Robot Framework e desenvolver conhecimentos em automação d
 
 ## 📂 Estrutura do Projeto
 📂 PrimeiroTeste 
-│── 📄 test.robot # Arquivo principal dos testes 
-│── 📄 README.md # Documentação do projeto 
-│── 📄 
+── 📄 test.robot # Arquivo principal dos testes 
+── 📄 README.md # Documentação do projeto 
 
 ## 📝 Descrição dos Testes
 
